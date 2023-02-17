@@ -1,0 +1,19 @@
+The bECdb database is a manually curated integrative resource dedicated to microbial bioremediation of pharmaceuticals and personal care products (PPCPs) research. 
+Data are systematically and manually collected from the scientific literature. 
+
+The following datasets are provided: 
+
+
+1. Biodegradation datasets - PPCPs microbial biodegradation datasets extracted from scientific literature.
+
+2. Emerging Contaminants - A list of commonly used pharmaceuticals and personal care products.
+
+3. Microorganisms - Microbes identified from culture-dependent and –independent approaches that can biodegrade PPCPs.
+
+4. Pathway - Biodegradation pathways associated with PPCPs microbial degradation extracted from scientific literature.
+
+5. Proteins- Biodegradative enzymes associated with PPCPs degradation processes
+
+6. Transformation Products - Intermediary metabolites and end-products of the PPCPS breakdown processes.
+
+7. Sequences: This compressed ZIP folder file contains nucleotide and protein sequences of the POP degrading microbial strains collected in this database.

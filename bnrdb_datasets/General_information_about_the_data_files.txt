@@ -1,0 +1,15 @@
+Biological Nitrogen Removal Database (description of datasets)
+The Biological Nitrogen Removal Database (BNRdb) is a novel manually curated integrative resource concerned with biological nitrogen removal from wastewater.
+Data are systematically and manually collected from the scientific literature. 
+
+The following datasets are provided:
+
+1. Genes - This Excel file contains data concerning nitrogen-removing microbial strains identified to possess the functional genes associated with the BNR processes collected from the scientific literature and public databases.
+
+2. Strains - This Excel file contains data concerning microbial strains that have been identified based on functional screening studies or 16S rRNA gene analysis extracted from works of literature.
+
+3. Sequence - This compressed ZIP folder file contains nucleotide and protein sequences of the nitrogen-removing microbial strains collected in this database.
+
+4. BNR Treatment Systems - This XML file contains data dedicated to the collection of experimental data concerning the application of BNR technologies to different wastewater treatment systems.
+
+5. Bioreactor - This XML file contains data concerning information about the types of bioreactors used for nitrogen bioremediation in wastewater treatment systems and case studies in which they were trialed.

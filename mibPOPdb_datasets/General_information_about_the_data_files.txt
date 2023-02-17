@@ -1,0 +1,14 @@
+The mibPOPdb database is a manually curated integrative resource dedicated to microbial bioremediation of persistent organic pollutants (POP) research. 
+Data are systematically and manually collected from the scientific literature.
+
+The following datasets are provided: 
+
+1. Genes: This Zip folder contains data concerning POP metabolizing microbial strains identified to possess the functional genes associated with the POP biodegradation processes collected from the scientific literature and public databases.
+
+2. Strains: This Zip Folder file contains data extracted from works of literature concerning algal, archaeal, bacterial, and fungal microbial strains that have been identified based on culture-dependent and –independent approaches to possess POP catabolic activities.
+
+3. Sequences: This compressed ZIP folder file contains nucleotide and protein sequences of the POP degrading microbial strains collected in this database.
+
+4. Compound: This XML file contains data dedicated to the information on persistent organic pollutants currently listed by the Stockholm Convention.
+
+5. Calculated properties 01: Datasets used to optimize and test the biodegradation prediction tool.
